@@ -1,2 +1,2 @@
 # Coding_With_R_My_Project_Portfolio
-sdgdsddf
+The current version of R-Studio provides a comprehensive learning experience. It guides users through various scripts, offering detailed and fundamental R code and queries. These scripts cover a wide range of topics, including data visualization, data structures, and multiple projects. Users can explore the application of statistical techniques like Anova tests and machine learning methods such as Simple and Multiple Linear Regression through these projects.
